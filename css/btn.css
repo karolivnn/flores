@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    height: 100vh; /* 100% de la altura de la pantalla */
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    background-color: #000000; /* Color de fondo de la página */
+}
+button{
+    font-size: 24px; /* Aumenta el tamaño del texto */
+    padding: 20px 40px; /* Aumenta el tamaño del botón */
+    background-color: #e0336a; /* Color de fondo */
+    color: white; /* Color del texto */
+    border: none; /* Sin bordes */
+    border-radius: 10px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor cuando está sobre el botón */
+}
